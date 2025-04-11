@@ -1,3 +1,4 @@
-today's learning: 
+today's review: 
 - html structure 
 - responsive navigation 
+- google fonts 
